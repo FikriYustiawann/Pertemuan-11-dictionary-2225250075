@@ -26,7 +26,7 @@ pertemuan-11-dictionary-2225250075/
 |-- praktik/
 |   `-- data_mahasiswa.py
 `-- kuis/
-    `-- kuis_formatif.py
+    `-- Kuis_Formatif_Pertemuan_11_2225250075.pdf
 ```
 
 ## Struktur Data
@@ -57,10 +57,9 @@ python3 latihan/06_fungsi_dictionary.py
 
 # Latihan 2 (praktik)
 python3 praktik/data_mahasiswa.py
-
-# Kuis formatif interaktif
-python3 kuis/kuis_formatif.py
 ```
+
+Kuis formatif berupa file PDF di folder `kuis/` (tinggal dibuka).
 
 ## Test Case
 
@@ -86,7 +85,7 @@ Kesalahan akses key yang saya temukan adalah mengakses `data["kelas"]` pada dict
 
 ## Kuis Formatif
 
-Kuis 10 soal pilihan ganda tersedia di `kuis/kuis_formatif.py`. Program menampilkan umpan balik dan penjelasan tiap soal, lalu skor akhir serta daftar soal yang perlu dipelajari ulang.
+File `kuis/Kuis_Formatif_Pertemuan_11_2225250075.pdf` memuat 10 pertanyaan kuis formatif beserta jawaban dan contoh kode, dengan identitas Fikri Yustiawan, NIM 2225250075, kelas 3-E.
 
 ## Catatan Sumber dan Bantuan
 
