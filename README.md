@@ -60,8 +60,6 @@ python3 latihan/06_fungsi_dictionary.py
 python3 praktik/data_mahasiswa.py
 ```
 
-Kuis formatif berupa file PDF di folder `kuis/` (tinggal dibuka).
-
 ## Test Case
 
 | Kasus | Input/aksi | Hasil yang diharapkan | Hasil aktual | Status |
@@ -84,10 +82,6 @@ Kesalahan akses key yang saya temukan adalah mengakses `data["kelas"]` pada dict
 - **Hubungan string dan dictionary yang saya pahami adalah** string dapat menjadi key atau value pada dictionary. Hasil normalisasi string (misalnya `strip()` dan `upper()`) menjaga konsistensi key agar data tidak gagal ditemukan.
 - **Konsep Pertemuan 11 yang akan membantu materi file I/O adalah** dictionary sebagai struktur penampung data terstruktur di memori, sebelum data ditulis ke file atau setelah dibaca dari file.
 
-## Kuis Formatif
-
-File `kuis/Kuis_Formatif_Pertemuan_11_2225250075.pdf` memuat 10 pertanyaan kuis formatif beserta jawaban dan contoh kode, dengan identitas Fikri Yustiawan, NIM 2225250075, kelas 3-E.
-
 ## Catatan Sumber dan Bantuan
 
-Sumber: bahan ajar Pertemuan 11 (Dr. Aan Hendrayana, S.Si., M.Pd.) dan dokumentasi Python 3 tentang dictionary. Bantuan AI (Claude) digunakan untuk menyusun kerangka file, kuis, dan draf README; seluruh kode telah dijalankan dan diuji, dan saya dapat menjelaskan alasan pemilihan key-value serta cara kerjanya.
+Sumber: bahan ajar Pertemuan 11 (Dr. Aan Hendrayana, S.Si., M.Pd.) dan dokumentasi Python 3 tentang dictionary. Bantuan AI digunakan untuk menyusun kerangka file, kuis, dan draf README; seluruh kode telah dijalankan dan diuji, dan saya dapat menjelaskan alasan pemilihan key-value serta cara kerjanya.
